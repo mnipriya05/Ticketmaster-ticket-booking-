@@ -1,0 +1,1 @@
+# User model is defined in events.models.
